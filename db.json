@@ -2,23 +2,23 @@
   "contacts": [
     {
       "id": "0145e904-7690-45d9-9e0e-d8933fdb014c",
-      "name": "Mike Happy",
-      "email": "Mike.Happy@gmail.com"
+      "name": "Green Salad",
+      "email": "green.salad@gmail.com"
     },
     {
       "id": "0d717d01-28ef-4026-9766-8d5237af3b93",
-      "name": "Borek",
-      "email": "Borek@gmail.com"
+      "name": "Red Carrot",
+      "email": "red.carrot@gmail.com"
     },
     {
       "id": "8633d69c-4639-4b51-ac13-47f03e39865f",
-      "name": "MS",
-      "email": "MS@gmail.com"
+      "name": "Tasty Sprouts",
+      "email": "tasty.sprouts@gmail.com"
     },
     {
       "id": "24343890-2918-4631-9f4f-7605f1499435",
-      "name": "Borek",
-      "email": "Borek@gmail.com"
+      "name": "Juicy Meat",
+      "email": "juicy.meat@gmail.com"
     }
   ]
 }
